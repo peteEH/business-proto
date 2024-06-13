@@ -32,6 +32,8 @@ A PCB Business Card that doubles as a handy prototyping tool!
   - 1 x 3x2.5mm (+/-) oscillator
   - 1 x SOT-23 linear regulator, optional tie in with VCC strips. 
 
+![Topside!](PCB-card-top.png "Card Top")
+![Bottomside!](PCB-card-bottom.png "Card Bottom")
 ## License
 
 - feel free to use and adapt! - MIT License
